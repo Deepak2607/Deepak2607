@@ -1,7 +1,8 @@
 
 [![linkedin badge](https://img.shields.io/badge/Deepak_Kumrawat-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/deepak-kumrawat/)
-[![twitter badge](https://img.shields.io/badge/@kumrawat2607-30302f?style=flat&logo=twitter)](https://twitter.com/kumrawat2607)
 [![stackoverflow badge](https://img.shields.io/badge/Deepak_Kumrawat-30302f?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/11618893/deepak-kumrawat?tab=profile)
+[![twitter badge](https://img.shields.io/badge/@kumrawat2607-30302f?style=flat&logo=twitter)](https://twitter.com/kumrawat2607)
+[![website badge](https://img.shields.io/badge/deepak2607.github.io/-30302f?style=flat&logo=website)](https://deepak2607.github.io/)
 
 ### Hi there 👋
 
