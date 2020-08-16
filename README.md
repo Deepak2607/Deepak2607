@@ -1,5 +1,5 @@
 
-### Hi there 👋👨🏽‍💻
+### Hi there 👋
 
 [![Github](https://img.shields.io/badge/-Deepak_Kumrawat-30302f?style=flat&logo=Github&logoColor=white)](https://github.com/Deepak2607/)
 [![Linkedin](https://img.shields.io/badge/-Deepak_Kumrawat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumrawat/)
