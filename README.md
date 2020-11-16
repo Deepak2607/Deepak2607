@@ -4,6 +4,7 @@
 [![Github](https://img.shields.io/badge/-Deepak_Kumrawat-30302f?style=flat&logo=Github&logoColor=white)](https://github.com/Deepak2607/)
 [![Linkedin](https://img.shields.io/badge/-Deepak_Kumrawat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kumrawat/)
 [![Stackoverflow](https://img.shields.io/badge/-Deepak_Kumrawat-ff6600?style=flat&logo=Stackoverflow&logoColor=white)](https://stackoverflow.com/users/11618893/deepak-kumrawat?tab=profile)
+[![Geeksforgeeks](https://img.shields.io/badge/-kumrawat2607-3b5998?style=flat&logo=Geeksforgeeks&logoColor=white)](https://deepak2607.github.io)
 [![Twitter](https://img.shields.io/badge/-@kumrawat2607-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/kumrawat2607)
 [![Website](https://img.shields.io/badge/-deepak2607.github.io-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://deepak2607.github.io)
 
